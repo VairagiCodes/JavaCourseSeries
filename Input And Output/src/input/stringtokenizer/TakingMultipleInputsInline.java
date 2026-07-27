@@ -1,4 +1,4 @@
-package stringtokenizer;
+package input.stringtokenizer;
 
 /*
  * Normally, using BufferedReader, we read the entire input as a single String.

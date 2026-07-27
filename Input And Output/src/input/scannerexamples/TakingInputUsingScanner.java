@@ -1,4 +1,4 @@
-package scannerexamples;
+package input.scannerexamples;
 
 /*
  * Scanner is a class from the java.util package
