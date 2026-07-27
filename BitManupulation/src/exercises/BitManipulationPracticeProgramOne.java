@@ -1,4 +1,4 @@
-/*Write a program to toggle
+package exercises;/*Write a program to toggle
  a bit at position = “position” in a number “number”.*/
 
 import java.util.Scanner;

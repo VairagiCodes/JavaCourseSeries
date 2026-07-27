@@ -1,3 +1,5 @@
+package exercises;
+
 //swap number without using third variable
 public class BitManipulationPracticeProgramFive {
     public static void main(String[] args) {

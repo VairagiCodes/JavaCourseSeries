@@ -1,3 +1,5 @@
+package exercises;
+
 import java.util.Scanner;
 
 /*Write a program to count the number of 1’s
