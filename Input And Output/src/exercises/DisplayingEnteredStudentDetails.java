@@ -36,7 +36,8 @@ public class DisplayingEnteredStudentDetails {
          * because read() reads only one character and leaves
          * the newline character (\n) in the input buffer.
          *
-         * readLine() reads the entire line entered by the user,
+         * readLine() reads the entire
+         * line entered by the user,
          * and charAt(0) extracts the first character from that line.
          */
         char classRoomName = bufferedReader.readLine().charAt(0);
